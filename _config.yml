@@ -4,6 +4,7 @@ description: Collection of things I've learned so far
 theme: just-the-docs
 
 url: https://thetredev.github.io/knowledge-base
+color_scheme: dark
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
